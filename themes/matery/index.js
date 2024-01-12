@@ -93,7 +93,7 @@ const LayoutBase = props => {
             </main>
 
             {/* 左下角悬浮 */}
-            <div className="bottom-4 -left-20 fixed justify-end z-40">
+            <div className="bottom-4 -left-12 fixed justify-end z-40">
                 <Live2D />
             </div>
 
