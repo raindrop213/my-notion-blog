@@ -81,7 +81,7 @@ const BLOG = {
   // 欢迎语打字效果,Hexo,Matery主题支持, 英文逗号隔开多个欢迎语。
   GREETING_WORDS:
     process.env.NEXT_PUBLIC_GREETING_WORDS ||
-    'Hi，我是一个程序员, Hi，我是一个打工人,Hi，我是一个干饭人,欢迎来到我的博客🎉',
+    'Hi！这有我觉得好玩的项目💻,Hi！这有我学习的笔记📚,Hi！这还有些乱七八糟的东西😂,☕工作的目的便是获得空闲 ——亚里士多德,我成天琢磨的，都是如何不用工作，也能维持自由玩乐的生活🀅 ——松浦弥太郎,我最大的能耐就是躺着不动🛌 ——卡夫卡,hhh 欢迎来到我的博客🎉',
 
   // 欢迎语打字效果类型速度
   GREETING_WORDS_TYPE_SPEED:
