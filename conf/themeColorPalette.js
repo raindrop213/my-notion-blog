@@ -1,7 +1,7 @@
 const DEFAULT_LIGHT = {
-  PRIMARY: '#2563eb',
+  PRIMARY: 'rgba(54, 83, 20, 1)',
   BG: '#ffffff',
-  CARD: '#ffffff',
+  CARD: '#5631acff',
   TEXT: '#111827',
   TEXT_SECONDARY: '#6b7280',
   BORDER: '#e5e7eb'
