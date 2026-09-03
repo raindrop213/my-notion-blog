@@ -1,5 +1,5 @@
 const DEFAULT_LIGHT = {
-  PRIMARY: '#2563eb',
+  PRIMARY: '#365314',
   BG: '#ffffff',
   CARD: '#ffffff',
   TEXT: '#111827',
