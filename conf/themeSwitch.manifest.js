@@ -64,7 +64,7 @@ export const THEME_SWITCH_MANIFEST = {
     name: 'Matery',
     summary: '卡片式列表与 Material 质感组件。',
     palette: [
-      { key: 'MATERY_COLOR_PRIMARY', cssVar: '--matery-color-primary', label: '主色', defaultValue: '#4338ca' },
+      { key: 'MATERY_COLOR_PRIMARY', cssVar: '--matery-color-primary', label: '主色', defaultValue: '#365314' },
       { key: 'MATERY_COLOR_PRIMARY_LIGHT', cssVar: '--matery-color-primary-light', label: '浅主色', defaultValue: '#818cf8' },
       { key: 'MATERY_COLOR_BG', cssVar: '--matery-color-bg', label: '页面背景', defaultValue: '#f5f5f5' }
     ]
