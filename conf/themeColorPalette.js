@@ -1,7 +1,7 @@
 const DEFAULT_LIGHT = {
-  PRIMARY: 'rgba(54, 83, 20, 1)',
+  PRIMARY: '#2563eb',
   BG: '#ffffff',
-  CARD: '#5631acff',
+  CARD: '#ffffff',
   TEXT: '#111827',
   TEXT_SECONDARY: '#6b7280',
   BORDER: '#e5e7eb'
@@ -65,7 +65,7 @@ const THEME_COLOR_DEFAULTS = {
   hexo: { PRIMARY: '#928CEE', BG: '#f5f5f5', TEXT: '#374151' },
   landing: { PRIMARY: '#ef4444' },
   magzine: { PRIMARY: '#7BE986', PRIMARY_DARK: '#62BA6B', BG: '#f6f6f1' },
-  matery: { PRIMARY: '#4338ca', BG: '#f5f5f5' },
+  matery: { PRIMARY: 'rgba(54, 83, 20, 1)', BG: '#f5f5f5' },
   medium: { PRIMARY: '#4f46e5' },
   movie: { PRIMARY: '#2563eb', PRIMARY_DARK: '#ca8a04' },
   nav: { PRIMARY: '#000000', BG: '#fbfbfb', TEXT: '#8c8c8c' },
