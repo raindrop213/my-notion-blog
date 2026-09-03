@@ -29,7 +29,7 @@ const BLOG = {
   PWA_ICON_512: process.env.NEXT_PUBLIC_PWA_ICON_512 || '', // 可选：覆盖 manifest 512x512 普通图标；须提供真实 512×512 尺寸的资源路径
   PWA_ICON_192_MASKABLE: process.env.NEXT_PUBLIC_PWA_ICON_192_MASKABLE || '', // 可选：覆盖 manifest 192x192 maskable 图标；资源应留有足够安全边距
   PWA_ICON_512_MASKABLE: process.env.NEXT_PUBLIC_PWA_ICON_512_MASKABLE || '', // 可选：覆盖 manifest 512x512 maskable 图标；资源应留有足够安全边距
-  PWA_THEME_COLOR: process.env.NEXT_PUBLIC_PWA_THEME_COLOR || '', // PWA 主题色
+  PWA_THEME_COLOR: process.env.NEXT_PUBLIC_PWA_THEME_COLOR || '#365314', // PWA 主题色
   PWA_BACKGROUND_COLOR: process.env.NEXT_PUBLIC_PWA_BACKGROUND_COLOR || '', // PWA 启动画面背景色
   BEI_AN: process.env.NEXT_PUBLIC_BEI_AN || '', // 备案号 闽ICP备XXXXXX
   BEI_AN_LINK: process.env.NEXT_PUBLIC_BEI_AN_LINK || 'https://beian.miit.gov.cn/', // 备案查询链接，如果用了萌备等备案请在这里填写
