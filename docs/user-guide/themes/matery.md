@@ -37,7 +37,7 @@ Material 卡片封面列表
 Matery 支持通过语义色变量调整主色、浅主色和页面背景：
 
 ```js
-MATERY_COLOR_PRIMARY: '#4338ca',
+MATERY_COLOR_PRIMARY: '#365314',
 MATERY_COLOR_PRIMARY_LIGHT: '#818cf8',
 MATERY_COLOR_BG: '#f5f5f5'
 ```
