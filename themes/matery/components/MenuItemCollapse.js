@@ -34,7 +34,7 @@ export const MenuItemCollapse = ({ link }) => {
       <div
         onClick={toggleShow}
         className={
-          'py-2 px-5 duration-300 text-base justify-between hover:bg-indigo-700 hover:text-white hover:shadow-lg cursor-pointer font-light flex flex-nowrap items-center ' +
+          'py-2 px-5 duration-300 text-base justify-between hover:bg-lime-900 hover:text-white hover:shadow-lg cursor-pointer font-light flex flex-nowrap items-center ' +
           (selected
             ? 'bg-indigo-500 text-white '
             : ' text-black dark:text-white ')

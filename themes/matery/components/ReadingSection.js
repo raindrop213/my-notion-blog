@@ -15,7 +15,7 @@ const ReadingSection = ({
       <header className='mb-6 flex flex-col gap-4 border-b border-gray-200 pb-5 dark:border-gray-800 sm:flex-row sm:items-end sm:justify-between'>
         <div className='flex min-w-0 items-start gap-3'>
           {Icon && (
-            <span className='flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-indigo-700 text-white shadow-md'>
+            <span className='flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-lime-900 text-white shadow-md'>
               <Icon aria-hidden='true' size={20} stroke={1.8} />
             </span>
           )}

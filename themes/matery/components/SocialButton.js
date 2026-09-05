@@ -40,7 +40,7 @@ const SocialButton = () => {
     'flex justify-center items-center w-10 h-10 hover:bg-indigo-600 dark:hover:bg-gray-800'
 
   return (
-    <div className='flex flex-col items-center w-10 transform hover:scale-105 duration-200 text-white text-center bg-indigo-700 rounded-full dark:bg-black cursor-pointer overflow-hidden select-none'>
+    <div className='flex flex-col items-center w-10 transform hover:scale-105 duration-200 text-white text-center bg-lime-900 rounded-full dark:bg-black cursor-pointer overflow-hidden select-none'>
       {!show && (
         <i
           onClick={toggleShow}

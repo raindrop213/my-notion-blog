@@ -6,7 +6,7 @@ const TagItemMiddle = ({ tag, selected = false }) => {
       href={selected ? '/' : `/tag/${encodeURIComponent(tag.name)}`}
       passHref
       className={`inline-block max-w-full cursor-pointer break-words rounded-full px-3 py-1 text-sm leading-5 text-white duration-200 hover:text-white ${
-        selected ? 'bg-black' : 'bg-indigo-700'
+        selected ? 'bg-black' : 'bg-lime-900'
       }`}
     >
       <span className='font-light'>

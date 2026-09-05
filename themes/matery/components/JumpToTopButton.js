@@ -27,7 +27,7 @@ const JumpToTopButton = ({ showPercent = true, percent }) => {
       <i
         id='jumpToTopButton'
         title={locale.POST.TOP}
-        className='fas fa-arrow-up transform hover:scale-105 duration-200 text-white bg-indigo-700 w-10 h-10 rounded-full dark:bg-black cursor-pointer flex justify-center items-center'
+        className='fas fa-arrow-up transform hover:scale-105 duration-200 text-white bg-lime-900 w-10 h-10 rounded-full dark:bg-black cursor-pointer flex justify-center items-center'
       />
     </div>
   )
